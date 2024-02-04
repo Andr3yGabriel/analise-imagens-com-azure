@@ -1,0 +1,1 @@
+# analise-imagens-com-azure
